@@ -52,7 +52,7 @@
 我们正在加速更新本书，期待您来[一起参与创作](https://www.hello-algo.com/chapter_preface/contribution/)，以帮助其他读者获取更优质的学习内容：
 
 - 如果发现笔误、无效链接、内容缺失、文字歧义、解释不清晰等问题，烦请您帮忙修正；
-- [代码翻译](https://github.com/krahets/hello-algo/issues/15) C++, Python, Go, JavaScript, TypeScript 正在进行中，期望您前来挑大梁；
+- [代码翻译](https://github.com/krahets/hello-algo/issues/15) C++, Python, Go, JavaScript, TypeScript, C# 正在进行中，期望您前来挑大梁；
 - 欢迎您通过提交 Pull Request 来增添新内容，包括重写章节、新增章节等；
 
 > 有任何问题请与我联系 WeChat: krahets-jyd
